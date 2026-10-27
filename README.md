@@ -20,3 +20,7 @@ In the app, open **Settings → Check for updates**. When a newer version is pub
 ## Your data
 
 Your jobs are stored only on your own phone. Dreadless has no account and no server, and it never sends your jobs anywhere. It connects to the internet only when you tap **Check for updates**.
+
+## Privacy
+
+Everything stays on your phone. Read the [privacy policy](PRIVACY.md).

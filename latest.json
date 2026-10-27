@@ -1,7 +1,7 @@
 {
-  "version": "0.1.13",
-  "build": 13,
-  "notes": "Edit any job (ticked steps stay ticked). Jobs can repeat weekly, monthly or yearly. Clear finished jobs without losing XP. New streak freeze: one missed day a week won't break your streak.",
-  "apk": "apk/Dreadless-build-13.apk",
-  "size": 7067074
+  "version": "0.1.14",
+  "build": 14,
+  "notes": "Build your own town: every step earns wood and bricks, finished jobs become landmarks with their name on a plaque. New: Run mode with combos, boss battles for big jobs, power hour, mystery chests, confetti, a daily nudge, a home-screen widget, and Share to Dreadless.",
+  "apk": "apk/Dreadless-build-14.apk",
+  "size": 7152460
 }
