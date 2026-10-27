@@ -1,6 +1,6 @@
 {
-  "version": "0.1.7",
-  "notes": "New \"What needs to be done\" box under the tiny steps, for your own words: details, numbers, who to contact. It shows on the job card while you work through the steps.",
+  "version": "0.1.8",
+  "notes": "Updates now install through Android's own installer, with no other app needed.",
   "apk": "apk/Dreadless.apk",
-  "size": 6779028
+  "size": 6779062
 }
