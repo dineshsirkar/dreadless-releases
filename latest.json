@@ -1,6 +1,7 @@
 {
-  "version": "0.1.10",
-  "notes": "Test update: this one should install through Android's own installer and keep all your jobs.",
-  "apk": "apk/Dreadless-0.1.10.apk",
-  "size": 6779067
+  "version": "0.1.11",
+  "build": 11,
+  "notes": "Restoring is easier: an empty app now shows \"Had jobs before? Restore my jobs\", and the file picker opens straight in the backup folder.",
+  "apk": "apk/Dreadless-build-11.apk",
+  "size": 6779061
 }
