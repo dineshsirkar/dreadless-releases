@@ -1,7 +1,7 @@
 {
-  "version": "0.1.11",
-  "build": 11,
-  "notes": "Restoring is easier: an empty app now shows \"Had jobs before? Restore my jobs\", and the file picker opens straight in the backup folder.",
-  "apk": "apk/Dreadless-build-11.apk",
-  "size": 6779061
+  "version": "0.1.12",
+  "build": 12,
+  "notes": "New game look: streaks, levels and XP, Today's quest, the 14-day challenge and badges, with Quest, Jobs, Add and Settings tabs. Your jobs stay as they are.",
+  "apk": "apk/Dreadless-build-12.apk",
+  "size": 7050691
 }
