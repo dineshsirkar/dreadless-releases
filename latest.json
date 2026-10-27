@@ -1,7 +1,7 @@
 {
-  "version": "0.1.14",
-  "build": 14,
-  "notes": "Build your own town: every step earns wood and bricks, finished jobs become landmarks with their name on a plaque. New: Run mode with combos, boss battles for big jobs, power hour, mystery chests, confetti, a daily nudge, a home-screen widget, and Share to Dreadless.",
-  "apk": "apk/Dreadless-build-14.apk",
-  "size": 7152460
+  "version": "0.1.15",
+  "build": 15,
+  "notes": "New app icon: the Pixel D.",
+  "apk": "apk/Dreadless-build-15.apk",
+  "size": 7152519
 }
