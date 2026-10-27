@@ -1,6 +1,6 @@
 {
-  "version": "0.1.8",
-  "notes": "Updates now install through Android's own installer, with no other app needed.",
+  "version": "0.1.9",
+  "notes": "Updates now install through Android's own installer and keep your jobs.\nYour jobs are also backed up automatically to Downloads/Dreadless, with a Restore button in Settings.",
   "apk": "apk/Dreadless.apk",
-  "size": 6779062
+  "size": 6779064
 }
