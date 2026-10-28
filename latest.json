@@ -1,7 +1,7 @@
 {
-  "version": "0.1.15",
-  "build": 15,
-  "notes": "New app icon: the Pixel D.",
-  "apk": "apk/Dreadless-build-15.apk",
-  "size": 7152519
+  "version": "0.1.16",
+  "build": 16,
+  "notes": "Calendar to Dreadless: put #do in any calendar event's title and it becomes a job, due on the event's date. Move the event and the job moves too. Turn it on in Settings. Also fixes the combo timer briefly showing more than 5:00.",
+  "apk": "apk/Dreadless-build-16.apk",
+  "size": 7168912
 }

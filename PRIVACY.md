@@ -1,6 +1,6 @@
 # Dreadless privacy policy
 
-Last updated: 27 October 2026
+Last updated: 28 October 2026
 
 Dreadless is built to keep your information on your own phone.
 
@@ -16,6 +16,7 @@ Dreadless is built to keep your information on your own phone.
 ## Permissions and why
 - **Notifications:** reminders, the 5-minute timer alert and the optional daily nudge.
 - **Calendar (only if you turn it on):** puts one event per job with a reminder into a calendar your phone already syncs. Dreadless only adds, updates and removes its own events.
+- **Reading your calendar (only if you turn on "#do" events):** reads event titles and times on your phone to turn events tagged #do into jobs, and to show upcoming events you can turn into a job with one tap. Nothing is copied off the phone, and Dreadless never changes or deletes those events. Some company work profiles block apps from reading the calendar; then this feature can't work on that phone.
 - **Internet and install updates (test builds only):** checks this GitHub page for a newer version and installs it when you tap Install. Nothing about you is sent; it only downloads the version file and the app.
 - **Vibration:** a short buzz when you clear a step.
 - **Start at boot:** puts your reminders back after the phone restarts or the app updates.
