@@ -6,6 +6,7 @@ Dreadless is built to keep your information on your own phone.
 
 ## What Dreadless stores
 - The jobs, steps and notes you type in, your progress (XP, streak, town, rewards) and your settings.
+- In family mode: your kids' first names, their chores, the amount set for each chore and each kid's running allowance total. The parent PIN is stored only as a scrambled code, never as the digits. Dreadless never moves money.
 - These are saved only on your phone, in the app's private storage, plus a backup copy in your phone's Downloads/Dreadless folder so you can restore them if the app is ever removed.
 
 ## What Dreadless does not do

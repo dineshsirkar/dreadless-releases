@@ -1,7 +1,7 @@
 {
-  "version": "0.1.16",
-  "build": 16,
-  "notes": "Calendar to Dreadless: put #do in any calendar event's title and it becomes a job, due on the event's date. Move the event and the job moves too. Turn it on in Settings. Also fixes the combo timer briefly showing more than 5:00.",
-  "apk": "apk/Dreadless-build-16.apk",
-  "size": 7168912
+  "version": "0.1.17",
+  "build": 17,
+  "notes": "Family mode, stage 1: set it up in Settings with a parent PIN, add your kids, give them chores with an amount, and approve finished chores with your PIN. To try the kid side on this phone, tap 'Use this phone as ...' in the Family tab.",
+  "apk": "apk/Dreadless-build-17.apk",
+  "size": 7201679
 }
