@@ -1,7 +1,7 @@
 {
-  "version": "0.1.19",
-  "build": 19,
-  "notes": "Family mode, stages 3 and 4: pair a kid's phone with a QR code; chores, photos and approvals travel between the phones over Bluetooth and Wi-Fi with no internet whenever both have Dreadless open nearby; notifications when a chore is finished or approved. No second phone? Use 'Practise with a pretend phone' in the Family tab.",
-  "apk": "apk/Dreadless-build-19.apk",
-  "size": 8465576
+  "version": "0.1.20",
+  "build": 20,
+  "notes": "More exciting game: big jobs are now real boss monsters (the Dread Blob, the Paper Golem, the Inbox Hydra, the Deadline Dragon) that flinch, crack and burst; every step can drop loot (critical hits for triple XP, supply crates, power cells, chest keys, rare blueprints); and your town comes alive with buildings that pop up, people walking the streets and lights at night.",
+  "apk": "apk/Dreadless-build-20.apk",
+  "size": 8498346
 }
