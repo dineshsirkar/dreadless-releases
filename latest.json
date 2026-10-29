@@ -1,7 +1,7 @@
 {
-  "version": "0.1.17",
-  "build": 17,
-  "notes": "Family mode, stage 1: set it up in Settings with a parent PIN, add your kids, give them chores with an amount, and approve finished chores with your PIN. To try the kid side on this phone, tap 'Use this phone as ...' in the Family tab.",
-  "apk": "apk/Dreadless-build-17.apk",
-  "size": 7201679
+  "version": "0.1.18",
+  "build": 18,
+  "notes": "Family mode, stage 2: photo proof. When a kid finishes a chore the camera opens; the photo is kept privately inside Dreadless and shows on the parent's approval card. Parents can save a photo to the gallery or delete photos after approving.",
+  "apk": "apk/Dreadless-build-18.apk",
+  "size": 7218113
 }
